@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="03/08/2024 13:38:09" ReportInfo.Modified="03/08/2024 13:38:09" ReportInfo.CreatorVersion="2021.3.30.0">
+  <Dictionary>
+    <JsonDataSourceConnection Name="Connection" ConnectionString="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">
+      <JsonTableDataSource Name="JSON" DataType="null" Enabled="true" TableName="JSON">
+        <Column Name="index" DataType="System.Int32"/>
+        <Column Name="item" DataType="null">
+          <Column Name="MA" DataType="System.String"/>
+          <Column Name="TEN" DataType="System.String"/>
+          <Column Name="NGAYMO" DataType="System.String"/>
+          <Column Name="NGAYDONG" DataType="System.String"/>
+          <Column Name="CREATED_AT" DataType="System.String"/>
+          <Column Name="CREATED_BY" DataType="System.String"/>
+          <Column Name="TONGGIATRI" DataType="System.String"/>
+          <Column Name="HINHTHUC" DataType="System.String"/>
+          <Column Name="LINHVUC" DataType="System.String"/>
+          <Column Name="PHUONGTHUC" DataType="System.String"/>
+          <Column Name="LOAIHD" DataType="System.String"/>
+          <Column Name="THOIGIAN" DataType="System.String"/>
+          <Column Name="YYYY" DataType="System.String"/>
+          <Column Name="NGAYDANGTAI" DataType="System.String"/>
+          <Column Name="MA_KHLCNT" DataType="System.String"/>
+          <Column Name="TEN_KHLCNT" DataType="System.String"/>
+          <Column Name="ID" DataType="System.String"/>
+          <Column Name="PHANLOAI" DataType="System.String"/>
+          <Column Name="MT" DataType="FastReport.JsonBase">
+            <Column Name="STT" DataType="System.String"/>
+            <Column Name="MAPL" DataType="System.String"/>
+            <Column Name="TENPL" DataType="System.String"/>
+            <Column Name="DVT" DataType="System.String"/>
+            <Column Name="QUYCACH" DataType="System.Object"/>
+            <Column Name="KHOILUONG" DataType="System.String"/>
+            <Column Name="DONGIA" DataType="System.String"/>
+          </Column>
+          <Column Name="DT" DataType="FastReport.JsonBase">
+            <Column Name="MAGOITHAU" DataType="System.String"/>
+            <Column Name="STT" DataType="System.String"/>
+            <Column Name="MANHATHAU" DataType="System.String"/>
+            <Column Name="TENNHATHAU" DataType="System.String"/>
+            <Column Name="CREATED_AT" DataType="System.String"/>
+            <Column Name="CREATED_BY" DataType="System.String"/>
+            <Column Name="SOPHAN_DUTHAU" DataType="System.String"/>
+            <Column Name="IDGOITHAU" DataType="System.String"/>
+            <Column Name="XETKT" DataType="System.String"/>
+            <Column Name="XETTC" DataType="System.String"/>
+            <Column Name="STTPL" DataType="System.String"/>
+            <Column Name="MAPL" DataType="System.String"/>
+            <Column Name="TENDUTHAU" DataType="System.String"/>
+            <Column Name="SOLUUHANH" DataType="System.String"/>
+            <Column Name="PHANLOAI" DataType="System.String"/>
+            <Column Name="HANGSX" DataType="System.String"/>
+            <Column Name="NUOCSX" DataType="System.String"/>
+            <Column Name="CHUSOHUU" DataType="System.String"/>
+            <Column Name="DVT" DataType="System.String"/>
+            <Column Name="QUYCACH" DataType="System.String"/>
+            <Column Name="SOLUONG" DataType="System.String"/>
+            <Column Name="DONGIA" DataType="System.Object"/>
+            <Column Name="CHUNGLOAI" DataType="System.String"/>
+            <Column Name="MAVTYT" DataType="System.String"/>
+          </Column>
+          <JsonTableDataSource Name="DETAILS" DataType="FastReport.JsonBase" Enabled="true">
+            <Column Name="index" DataType="System.Int32"/>
+            <Column Name="item" DataType="FastReport.JsonBase">
+              <Column Name="IDNOIDUNG" DataType="System.String"/>
+              <Column Name="NOIDUNG" DataType="System.String"/>
+              <Column Name="DAT" DataType="System.String"/>
+              <Column Name="CHAPNHAN" DataType="System.String"/>
+              <Column Name="KHONGDAT" DataType="System.String"/>
+              <Column Name="NHANXET" DataType="System.Object"/>
+              <Column Name="GHICHU" DataType="System.Object"/>
+            </Column>
+            <Column Name="array" DataType="FastReport.JsonBase"/>
+          </JsonTableDataSource>
+        </Column>
+        <Column Name="array" DataType="FastReport.JsonBase"/>
+      </JsonTableDataSource>
+    </JsonDataSourceConnection>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="132.3" CanGrow="true">
+      <TextObject Name="Text7" Top="28.35" Width="718.2" Height="18.9" CanGrow="true" Text="E-HSDT của nhà thầu: [JSON.item.DT.TENNHATHAU]" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text8" Left="406.35" Top="9.45" Width="311.85" Height="18.9" CanGrow="true" Text="Mẫu số 3B&#13;&#13;&#13;&#10;(Đính kèm cùng báo cáo đánh giá)&#13;" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text9" Top="47.25" Width="718.2" Height="18.9" CanGrow="true" Text="Mã số: [JSON.item.DT.MANHATHAU]" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text10" Top="75.6" Width="718.2" Height="18.9" CanGrow="true" Text="BẢNG ĐÁNH GIÁ KỸ THUẬT" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text11" Top="94.5" Width="718.2" Height="18.9" CanGrow="true" Text="(Sử dụng tiêu chí đánh giá &quot;đạt&quot;,&quot;không đạt&quot;)&#13;" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text12" Top="113.4" Width="718.2" Height="18.9" CanGrow="true" Text="Gói thầu: [JSON.item.TEN] &quot;[JSON.item.MA]&quot;" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <ChildBand Name="Child2" Width="718.2" Height="9.45"/>
+    </ReportTitleBand>
+    <DataBand Name="Data1" Width="718.2" Height="217.35" CanGrow="true">
+      <TextObject Name="Text14" Width="718.2" Height="18.9" CanGrow="true" Text="THÔNG TIN SẢN PHẨM MỜI THẦU" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text15" Top="28.35" Width="141.75" Height="18.9" CanGrow="true" Text="STT phần (lô): [JSON.item.MT.STT]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text16" Top="47.25" Width="103.95" Height="18.9" CanGrow="true" Text="Tên phần (lô): " VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text17" Left="94.5" Top="47.25" Width="463.05" Height="18.9" CanGrow="true" Text="[JSON.item.MT.TENPL]" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text18" Top="66.15" Width="302.4" Height="18.9" CanGrow="true" Text="Quy cách: [JSON.item.MT.QUYCACH]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text19" Left="283.5" Top="28.35" Width="378" Height="18.9" CanGrow="true" Text="Mã phần (lô): [JSON.item.MT.MAPL]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text20" Left="283.5" Top="66.15" Width="122.85" Height="18.9" CanGrow="true" Text="Đơn vị tính: [JSON.item.MT.DVT]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text21" Left="519.75" Top="66.15" Width="160.65" Height="18.9" CanGrow="true" Text="Số lượng: [JSON.item.MT.KHOILUONG]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text22" Top="94.5" Width="718.2" Height="18.9" CanGrow="true" Text="THÔNG TIN SẢN PHẨM DỰ THẦU" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text23" Top="122.85" Width="160.65" Height="18.9" Text="Tên hàng hóa dự thầu: " VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text24" Left="141.75" Top="122.85" Width="463.05" Height="18.9" CanGrow="true" Text=" [JSON.item.DT.TENDUTHAU]" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+      <TextObject Name="Text25" Top="141.75" Width="718.2" Height="18.9" Text="Chủng loại (model) hoặc mã sản phẩm: [JSON.item.DT.CHUNGLOAI]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text26" Top="160.65" Width="302.4" Height="18.9" CanGrow="true" Text="Số lưu hành hoặc Số giấy phép nhập khẩu: [JSON.item.DT.SOLUUHANH]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text27" Left="321.3" Top="160.65" Width="359.1" Height="18.9" Text="Phân loại TTBYT: [JSON.item.DT.PHANLOAI]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text28" Top="179.55" Width="340.2" Height="18.9" CanGrow="true" Text="Hãng sản xuất: [JSON.item.DT.HANGSX]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text29" Left="321.3" Top="179.55" Width="103.95" Height="18.9" CanGrow="true" Text="Nước sản&#13;&#13;&#13;&#10;xuất: [JSON.item.DT.NUOCSX]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text30" Top="198.45" Width="321.3" Height="18.9" CanGrow="true" Text="Quy cách: [JSON.item.DT.QUYCACH]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text31" Left="321.3" Top="198.45" Width="103.95" Height="18.9" CanGrow="true" Text="Đơn vị tính: [JSON.item.DT.DVT]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text32" Left="425.25" Top="179.55" Width="292.95" Height="18.9" CanGrow="true" Text="Hãng, nước chủ sở hữu: [JSON.item.DT.CHUSOHUU]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text33" Left="425.25" Top="198.45" Width="292.95" Height="18.9" CanGrow="true" Text="Số lượng: [JSON.item.DT.SOLUONG]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      <ChildBand Name="Child1" Width="718.2" Height="9.45"/>
+      <DataBand Name="Data2" Width="718.2" Height="18.9" CanGrow="true" DataSource="DETAILS">
+        <TextObject Name="Text34" Width="47.25" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.IDNOIDUNG]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text35" Left="47.25" Width="384.8" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.NOIDUNG]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text36" Left="432.05" Width="37.8" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.DAT]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text37" Left="469.85" Width="54.81" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.CHAPNHAN]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text38" Left="524.66" Width="64.26" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.KHONGDAT]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text39" Left="589.68" Width="73.71" Height="18.9" Border.Lines="Right, Top, Bottom" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.NHANXET]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <TextObject Name="Text40" Left="663.39" Width="54.81" Height="18.9" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[JSON.item.DETAILS.item.GHICHU]" VertAlign="Center" Font="Times New Roman, 12pt"/>
+        <DataHeaderBand Name="DataHeader1" Width="718.2" Height="94.5">
+          <TableObject Name="Table1" Width="718.2" Height="94.5">
+            <TableColumn Name="Column1" MaxWidth="500" Width="45.9"/>
+            <TableColumn Name="Column2" MaxWidth="500" Width="386.1"/>
+            <TableColumn Name="Column3" MaxWidth="500" Width="36.45"/>
+            <TableColumn Name="Column4" MaxWidth="500" Width="55.35"/>
+            <TableColumn Name="Column5" MaxWidth="500" Width="64.8"/>
+            <TableColumn Name="Column6" MaxWidth="500" Width="74.25"/>
+            <TableColumn Name="Column7" MaxWidth="500" Width="55.35"/>
+            <TableRow Name="Row1" MaxHeight="500" Height="28.35">
+              <TableCell Name="Cell1" Border.Lines="All" Text="STT" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold" RowSpan="2"/>
+              <TableCell Name="Cell2" Border.Lines="All" Text="Nội dung đánh giá(1)" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold" RowSpan="2"/>
+              <TableCell Name="Cell3" Border.Lines="All" Text="Kết quả đánh giá(2)" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold" ColSpan="3"/>
+              <TableCell Name="Cell4" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell5" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell26" Border.Lines="All" Text="Nhận xét&#13;&#13;&#13;&#10;của chuyên&#13;&#13;&#13;&#10;gia" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold" RowSpan="2"/>
+              <TableCell Name="Cell27" Border.Lines="All" Text="Ghi chú" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold" RowSpan="2"/>
+            </TableRow>
+            <TableRow Name="Row2" MaxHeight="500" Height="66.15">
+              <TableCell Name="Cell6" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell7" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell8" Border.Lines="All" Text="Đạt" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell9" Border.Lines="All" Text="Chấp nhận được" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell10" Border.Lines="All" Text="Không đạt" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell28" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+              <TableCell Name="Cell29" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+            </TableRow>
+          </TableObject>
+        </DataHeaderBand>
+      </DataBand>
+      <DataFooterBand Name="DataFooter1" Width="718.2" Height="66.15">
+        <TextObject Name="Text41" Left="481.95" Top="28.35" Width="236.25" Height="18.9" CanGrow="true" Text="Người đánh giá" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt, style=Bold"/>
+        <TextObject Name="Text42" Left="481.95" Top="47.25" Width="236.25" Height="18.9" CanGrow="true" Text="(Ký và ghi rõ họ tên)" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 12pt"/>
+      </DataFooterBand>
+    </DataBand>
+  </ReportPage>
+</Report>
