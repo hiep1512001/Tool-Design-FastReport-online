@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Report từ sửa XML";
+}
+<div class="row mt-2">
+    @await ViewBag.WebReport.Render()
+</div>
+<hr />
+<div class="row">
+    <button class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal" onclick="clearTextBox();">Sửa XML</button><br /><br />
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-bs-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <textarea style="height:800px; width:1100px" id="content">@ViewBag.Content</textarea>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAdd" onclick="Update();">Sửa</button>
+                <button type="button" class="btn btn-default" data-bs-dismiss="modal">Đóng</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function Update() {
+
+        var content = $('#content').val();
+
+        var data = new FormData();
+        data.append("content", content);
+        $.ajax({
+            url: "/Home/GetContenFromXML",
+            type: "POST",
+            data: data,
+            contentType: false,
+            processData: false,
+            success: function (result) {
+                console.log(result)
+                $('#myModal').modal('hide');
+            },
+            error: function (errormessage) {
+                alert(errormessage.responseText);
+            }
+        });
+
+        window.location = "/Home/LoadReportEitXML"
+    }
+</script>
+
+
+
