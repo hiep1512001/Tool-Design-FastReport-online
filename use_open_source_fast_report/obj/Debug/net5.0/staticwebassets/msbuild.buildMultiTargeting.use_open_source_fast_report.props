@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\use_open_source_fast_report.props" />
+</Project>
